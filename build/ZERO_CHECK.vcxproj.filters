@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mdawczak\source\repos\KALK\build\CMakeFiles\94397f37237f7005eb7fad390f765bc8\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AA32809F-DC8C-34D9-99DC-B5BEA0A959BA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

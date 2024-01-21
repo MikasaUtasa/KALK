@@ -1,0 +1,5 @@
+C:/Users/mdawczak/source/repos/KALK/build/CMakeFiles/KALK.dir
+C:/Users/mdawczak/source/repos/KALK/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/mdawczak/source/repos/KALK/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/mdawczak/source/repos/KALK/build/lib/CMakeFiles/lib.dir
+C:/Users/mdawczak/source/repos/KALK/build/lib/CMakeFiles/ALL_BUILD.dir
